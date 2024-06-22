@@ -2,63 +2,47 @@
   "todos": [
     {
       "id": 3,
-      "todo": "Call yeahhhhh"
+      "todo": "Walking"
     },
     {
       "id": 4,
       "todo": "Workout"
     },
     {
-      "todo": "Yupppp",
+      "todo": "Eat breakfast",
       "id": 5
     },
     {
       "id": 6,
-      "todo": "Eat Panipuri"
+      "todo": "Read a book"
     },
     {
       "id": 7,
-      "todo": "Walking"
+      "todo": "Climbing"
     },
     {
-      "todo": "Heyya",
+      "todo": "Trekking",
       "id": 8
     },
     {
-      "todo": "Heyya urvashiii",
+      "todo": "Listen Music",
       "id": 9
     },
     {
-      "todo": "do exercise by 6 pm",
+      "todo": "do exercise at 6 pm",
       "id": 10
     },
     {
-      "todo": "Eating dosa",
+      "todo": "Go to class",
       "id": 11
     },
     {
-      "todo": "hiiiii",
+      "todo": "Study React",
       "id": 12
     },
     {
-      "todo": "dadadda",
-      "id": 13
-    },
-    {
-      "todo": "Eat Pizzzaaa",
+      "todo": "Eat Pizaa",
       "id": 14
-    },
-    {
-      "todo": "gdhdffdfdfsfsffs",
-      "id": 17
-    },
-    {
-      "todo": "Twinkleee",
-      "id": 18
-    },
-    {
-      "todo": "Chikckoooo",
-      "id": 19
     }
   ]
 }
